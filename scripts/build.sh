@@ -1,0 +1,1 @@
+gcc source/main.c -o build/main -I./ext -lglfw -lGL -lm -ldl
